@@ -3,7 +3,7 @@ Hey there 👋🏻\
 
 Currently learning 🧑🏻‍💻\
 >🔸iOS App Development with swift\
->🔸Project Manageme
+>🔸Project Management
 
 Intern at [Softbenz Infosys](https://softbenz.com)
 
